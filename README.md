@@ -1,4 +1,4 @@
-# Site ADA
+# Site Ada Lovelace
 
 ## Projeto final do curso EuProgramo Front-End I da Programaria
 
